@@ -1,4 +1,4 @@
-package in_cluster_configurations
+package main
 
 import (
 	"context"
